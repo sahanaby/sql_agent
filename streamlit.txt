@@ -1,0 +1,8 @@
+streamlit
+pandas
+matplotlib
+sqlite-utils
+langchain
+langchain-core
+langchain-community
+langchain-groq
